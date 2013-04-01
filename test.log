@@ -1,0 +1,33 @@
+01-01 08:49:57.597 I/AudioFlinger(  802): getNextBuffer() no more data for track 4098 on thread 0xd0b4f8
+
+01-01 08:49:57.618 W/AudioFlinger(  802): RecordThread: buffer overflow
+
+01-01 08:49:57.677 I/PJSIP   ( 1915): 14:59:17.246 vstrm0x64a8001  TX RTCP SR: ntp_ts=0xbc4b537
+
+01-01 08:49:57.677 I/PJSIP   ( 1915): 14:59:17.247 vstrm0x64a8001  Tx RTCP RR: lsr=0xbc1b272, lsr_time=0xaec0523d, now=0xaec2677f, dlsr=0x21542(2s:083ms)
+
+01-01 08:49:57.900 I/DEBUG   (  798):          #00  pc 000ce4b0  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.900 I/DEBUG   (  798):          #01  pc 000d2418  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.903 I/DEBUG   (  798):          #02  pc 000d01c8  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.905 I/DEBUG   (  798):          #03  pc 000d3d88  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.907 I/DEBUG   (  798):          #04  pc 00099488  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.909 I/DEBUG   (  798):          #05  pc 0009f68c  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.911 I/DEBUG   (  798):          #06  pc 000fa18c  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.913 I/DEBUG   (  798):          #07  pc 000d6210  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.914 I/DEBUG   (  798):          #08  pc 000d690e  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.916 I/DEBUG   (  798):          #09  pc 000fcac4  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.919 I/DEBUG   (  798):          #10  pc 0010568c  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.921 I/DEBUG   (  798):          #11  pc 0008a500  /data/com.lenovo.videotalk/lib/libMediaEngine.so
+
+01-01 08:49:57.923 I/DEBUG   (  798):          #12  pc 00091e44  /data/com.lenovo.videotalk/lib/libMediaEngine.so
